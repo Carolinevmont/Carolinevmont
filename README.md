@@ -1,8 +1,9 @@
 ## Oiii, me chamo Carol 👋
-**Bem-vindo ao meu perfil do GitHub**
+Seja bem-vindo ao meu perfil do GitHub
 
 - 💻 Graduanda em sistemas de informação - 3° semestre
-- 🎨 apaixonada em pintar quadros
+- 🎨 Apaixonada em pintar quadros
+- 📌 Resido em Porto alegre - RS
 
 **Compartilho aqui nesse perfil meu aprendizado em** 
 
