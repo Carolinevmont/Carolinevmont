@@ -1,7 +1,8 @@
-## Oiii, 👋
+## Oiii, me chamo Carol 👋
 Bem-vindo ao meu perfil do GitHub
 
-- 💻 Graduanda em sistemas de informação - 3º semestre 
+- 💻 Graduanda em sistemas de informação - 3° semestre
+- 🎨 apaixonada em pintar quadros
 
 #### Compartilho aqui nesse perfil meu aprendizado em 
 
