@@ -1,4 +1,4 @@
-## Oii, me chamo Carol !
+# Oii, me chamo Carol !
 ### Bem vindo ao meu perfil do GitHub 🤗
 
 ### Compartilho aqui nesse perfil meu aprendizado em:
