@@ -1,6 +1,6 @@
 ## Oiii, me chamo Carol 👋
 
-Seja bem-vindo ao meu perfil do GitHub
+**Seja bem-vindo ao meu perfil do GitHub**
 
 **Compartilho aqui nesse perfil meu aprendizado em** 
 
