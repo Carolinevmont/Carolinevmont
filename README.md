@@ -4,7 +4,6 @@
 
 **Compartilho aqui nesse perfil meu aprendizado em** 
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,java,mysql,spring,figma,vscode&perline=14" />
   </a>
