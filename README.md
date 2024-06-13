@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Acesse meu portifólio em:
+Acesse meu currículo em:
 https://portifolio-virid-eta.vercel.app/
 
 **Contato**
