@@ -5,7 +5,7 @@
 **Compartilho aqui nesse perfil meu aprendizado em** 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,java,mysql,spring,vue,react,figma,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,vue,react,figma,vscode,java,mysql,spring&perline=14" />
   </a>
 </p>
 
